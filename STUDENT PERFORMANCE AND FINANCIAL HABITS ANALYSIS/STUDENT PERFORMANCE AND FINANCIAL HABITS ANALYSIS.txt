@@ -1,0 +1,16 @@
+{
+  "name": "Neutral Student Finance Theme",
+  "dataColors": ["#A0AEC0", "#718096", "#4A5568", "#2D3748", "#38B2AC", "#81E6D9"],
+  "background": "#F9FAFB",
+  "foreground": "#2D3748",
+  "tableAccent": "#38B2AC",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "color": { "expression": { "Solid": { "color": "#2D3748" } } },
+        "fontFamily": "Segoe UI",
+        "fontSize": 11
+      }
+    }
+  }
+}

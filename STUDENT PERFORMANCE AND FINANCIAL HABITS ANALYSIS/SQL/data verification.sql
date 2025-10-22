@@ -1,0 +1,7 @@
+Select *
+from [student performance and financial habits analysis]..MERGED_DATASET
+
+SELECT COUNT(*) FROM MERGED_DATASET;
+SELECT COUNT(DISTINCT Student_ID) AS unique_students FROM MERGED_DATASET;
+SELECT DISTINCT month FROM MERGED_DATASET;
+SELECT * FROM MERGED_DATASET LIMIT20
